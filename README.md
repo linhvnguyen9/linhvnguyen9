@@ -1,4 +1,4 @@
-### Coding in Kotlin is a lot of fun, literally... 👋
+### Coding in Kotlin is a lot of fun, literally... 
 
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhvnguyen9&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
