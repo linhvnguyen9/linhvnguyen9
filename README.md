@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 Accounts:
-[GitLab](https://gitlab.com/vanlinh999)
+- [GitLab](https://gitlab.com/vanlinh999)
