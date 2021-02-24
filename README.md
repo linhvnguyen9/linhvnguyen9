@@ -1,3 +1,5 @@
+[![GitHub linhvnguyen9](https://img.shields.io/github/followers/linhvnguyen9?label=follow&style=social)](https://github.com/linhvnguyen9)
+
 ### Coding in Kotlin is a lot of fun, literally... 
 
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhvnguyen9&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
