@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Other accounts:
 - [GitLab (@vanlinh999)](https://gitlab.com/vanlinh999)
-- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3Bcbf2z8b%2FSfa2CPDGSBYjcg%3D%3D)
+- [![Linkedin: Van Linh Nguyen](https://img.shields.io/badge/-linhvnguyen9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3Bcbf2z8b%2FSfa2CPDGSBYjcg%3D%3D)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3Bcbf2z8b%2FSfa2CPDGSBYjcg%3D%3D)
