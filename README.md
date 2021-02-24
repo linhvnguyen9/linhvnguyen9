@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 ### Languages and Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://https://firebase.google.com/" target="_blank"> <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-vertical.svg" alt="firebase" width="40" height="40"/></p>
 
-https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain.svg
-
 ### Other accounts:
 - [![GitLab: @vanlinh999](https://img.shields.io/badge/-%40vanlinh999-orange?style=flat-square&logo=gitlab&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3Bcbf2z8b%2FSfa2CPDGSBYjcg%3D%3D)](https://gitlab.com/vanlinh999)
 - [![Stackoverflow: Van Linh Nguyen](https://img.shields.io/badge/-Van%20Linh%20Nguyen-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10325347/van-linh-nguyen)](https://stackoverflow.com/users/10325347/van-linh-nguyen)
