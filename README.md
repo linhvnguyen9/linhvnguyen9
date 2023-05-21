@@ -1,5 +1,7 @@
 ### Coding in Kotlin is a lot of fun, literally... 
 
+![Android](https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif)
+
 <!--
 **linhvnguyen9/linhvnguyen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
